@@ -9,7 +9,9 @@ Pour commencer à utiliser l'application vous devez commencer à utiliser l'appl
 ## Repository
 
 Le fichier app.py contient tout le code utilisé pour l'application streamlit 
+
 le fichier utils.py contient la fonction speech avec azure 
+
 le fichier speech.py contient la fonction speech sans azure
 
 ## Librairie Utilisés
