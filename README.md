@@ -3,7 +3,7 @@
 ## Guide d'installation
 
 Pour commencer à utiliser l'application vous devez commencer à utiliser l'application, vous devez d'abord : 
-- Intaller le requirement.txt à l'aide de la commande suivante : 'pip install requirement.txt'
+- Intaller le requirement.txt à l'aide de la commande suivante : 'pip install -r requirement.txt'
 - Utiliser la commande : 'streamlit run app.py' pour lancer l'application streamlit
 
 ## Repository
